@@ -1,4 +1,4 @@
-# ⚡ Loader Animation
+# ⚡ Loading Animation
 
 ## 🛠 Built with
 - HTML
