@@ -10,5 +10,5 @@
 
 
 <p align="center" style="padding: 10px">
-    <img alt="" src="./assets/prew.gif" width="90%">
+    <img alt="" src="./assets/prew.png" width="90%">
     <br>
